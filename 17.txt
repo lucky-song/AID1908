@@ -1,3 +1,5 @@
-ç»ƒä¹  ; æ·»åŠ æ–‡ä»¶ readme,md
-    å†™å‡ è¡Œå†…å®¹,ç¬¦åˆmarkdownæ ¼å¼
-    å°†è¯¥æ–‡ä»¶å­˜å‚¨åˆ°ä»“åº“
+×÷Òµ£º1. ¸´Ï°µÚ¶þ½×¶ÎIOÍøÂç£¬²¢·¢±à³ÌÄÚÈÝ
+      2. »Ø¹ËÁÄÌìÊÒºÍftp
+      3. Linux ÃüÁî   mysqlÓï¾ä   ÕýÔòÔª×Ö·û  gitÃüÁî£¬ÕûÀíµ½ÔÆ±Ê¼ÇÖÐ
+
+ 
